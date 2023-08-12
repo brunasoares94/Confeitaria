@@ -7,7 +7,7 @@ Usamos o SEMANTIC UI como framework do front-end e implementamos os métodos GET
 <p>Imagens do sistema:</p>
 <br>
 <p>Página Inicial:</p>
-<img src="img/index.png"> 
+<img src="img/index.png">
 
 <p>Galeria de bolos:</p>
 <img src="img/galeria">
